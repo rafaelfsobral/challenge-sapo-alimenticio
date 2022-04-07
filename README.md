@@ -38,6 +38,7 @@ $ Execute the command python server.py
 $ cd challenge-sapo-alimenticio
 $ cd client
 $ npm install
+$ npm start
 
 ```
 
